@@ -1,6 +1,6 @@
 cask "meqat" do
-  version "1.5.0"
-  sha256 "e56c1d114fb0998f9d55a6fa0787674f492f1e0a87b8412fe233b0baaf44119f"
+  version "1.6.0"
+  sha256 "33ead5a2c6bf20094d71e89b62536241e14d1a079be22bc4c0398fd85cd95981"
 
   url "https://github.com/masnun-siam/meqat/releases/download/v#{version}/Meqat-#{version}.dmg"
   name "Meqat"
